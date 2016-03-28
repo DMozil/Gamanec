@@ -1,0 +1,6 @@
+C:\Users\1\Desktop\STEP\PM\Project\Project\bin\Debug\Project.exe.config
+C:\Users\1\Desktop\STEP\PM\Project\Project\bin\Debug\Project.exe
+C:\Users\1\Desktop\STEP\PM\Project\Project\bin\Debug\Project.pdb
+C:\Users\1\Desktop\STEP\PM\Project\Project\obj\Debug\Project.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\STEP\PM\Project\Project\obj\Debug\Project.exe
+C:\Users\1\Desktop\STEP\PM\Project\Project\obj\Debug\Project.pdb
