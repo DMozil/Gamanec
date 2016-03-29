@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Project
 {
+    // Створений клас по завданню Лаб 3
     public class CreditCart
     {
         private string hello;
